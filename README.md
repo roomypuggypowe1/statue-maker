@@ -15,4 +15,4 @@ press luanch and it will launch afer a few minutes
 
 click singleplayer
 
-then press new world and your in
+then press coder world and your in
